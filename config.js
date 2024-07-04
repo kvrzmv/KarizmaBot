@@ -13,17 +13,17 @@ global.confirmCode = ""
 global.owner = [['201005595756', '*ڪـأأࢪيـزمـأأ  أبـن  كـأيـرؤꨄ  ,*', true],
 ];
 
-global.suittag = ['201025663589'];
-global.prems = ['201025663589'];
+global.suittag = ['201005595756'];
+global.prems = ['201005595756'];
 
-global.packname = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.author = '✩𝙼𝙴𝙶𝙾-𝙱𝙾𝚃☆';
-global.wm = '✯𝐌𝐄𝐆𝐎𝐁𝐎𝐓-𝐌𝐃✯';
-global.vs = 'V2 • 1.0.5':
-global.titulowm = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.titulowm2 = `☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎`
-global.igfg = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.wait = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
+global.packname = 'ITACHIBOT';
+global.author = '🕸 𝙸𝚃𝙰𝙲𝙷𝚈 𝙱𝙾𝚃🕷';
+global.wm = '✯𝙸𝚃𝙰𝙲𝙷𝚈 𝙱𝙾𝚃✯';
+global.vs = 'V1 • 1.0.0':
+global.titulowm = 'ڪـأأࢪيـزمـأأ  أبـن  كـأيـرؤꨄ  ,';
+global.titulowm2 = `ڪـأأࢪيـزمـأأ  أبـن  كـأيـرؤꨄ  ,`
+global.igfg = 'ڪـأأࢪيـزمـأأ  أبـن  كـأيـرؤꨄ  ,';
+global.wait = '*[ ⏳ ] انتظر جاري التحميل تابع صاحب البوت*...\n\n*kv_rzm*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
@@ -45,13 +45,13 @@ global.tiempo = d.toLocaleString('ar-US', {hour: 'numeric', minute: 'numeric', s
 //* ****************************
 global.wm2 = `${dia} ${fecha}\n☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎`;
 global.gt = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.mysticbot = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.md = 'atom.bio/mego51_51';
-global.mysticbot = 'atom.bio/mego51_51';
-global.waitt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
-global.waittt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
-global.waitttt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
-global.nomorown = '201025663589';
+global.itachibot = '↫ڪـأريـزمأ  أبـن  ڪـأيـرؤ  ꨄ  ,';
+global.md = 'atom.bio/kv_rzm';
+global.itachibot = 'atom.bio/kv_rzm';
+global.waitt = '*[ ⏳ ] انتظر جاري التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
+global.waittt = '*[ ⏳ ] انتظر جاري التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
+global.waitttt = '*[ ⏳ ] انتظر جاري التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
+global.nomorown = '201005595756';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
