@@ -4,14 +4,14 @@ let handler = async (m, { conn, text }) => {
   let who
   if (m.isGroup) who = m.mentionedJid[0]
   else who = m.chat
-  if (!who) throw '✳️ منشن المستخدم'
+  if (!who) throw '✳️ منشن ل حد'
   let txt = text.replace('@' + who.split`@`[0], '').trim()
   if (!txt) throw '✳️ ضيف المبلغ الي عايز تحوله'
   if (isNaN(txt)) throw ' 🔢 ارقام اوعي تحط رموز يا حب'
   let xp = parseInt(txt)
   let exp = xp
 
-  if (exp < 1) throw '✳️ الحد الأدنى  *1*'
+  if (exp < 1) throw '✳️  اقل حاجه 1*'
   let users = global.db.data.users
   users[who].exp += xp
 
