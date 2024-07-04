@@ -7,10 +7,10 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = "*『🔥┇𝙼𝙴𝙶𝙾-𝙱𝙾𝚃』*"
+global.botnumber = "+3197010588681"
 global.confirmCode = ""
 
-global.owner = [['201012531172', '𝙢,𝙚,𝙜,𝙤, ❦︎', true],
+global.owner = [['201005595756', '*ڪـأأࢪيـزمـأأ  أبـن  كـأيـرؤꨄ  ,*', true],
 ];
 
 global.suittag = ['201025663589'];
