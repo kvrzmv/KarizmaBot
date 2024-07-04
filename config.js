@@ -43,8 +43,8 @@ global.mes = d.toLocaleDateString('ar', {month: 'long'});
 global.año = d.toLocaleDateString('ar', {year: 'numeric'});
 global.tiempo = d.toLocaleString('ar-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎`;
-global.gt = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
+global.wm2 = `${dia} ${fecha}\n↫ڪـأريـزمأ  أبـن  ڪـأيـرؤ  ꨄ  ,`;
+global.gt = '↫ڪـأريـزمأ  أبـن  ڪـأيـرؤ  ꨄ  ,';
 global.itachibot = '↫ڪـأريـزمأ  أبـن  ڪـأيـرؤ  ꨄ  ,';
 global.md = 'atom.bio/kv_rzm';
 global.itachibot = 'atom.bio/kv_rzm';
