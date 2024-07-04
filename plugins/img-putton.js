@@ -1,12 +1,12 @@
-//ميجو يحبكم 🤭❤️
-//اهينك اذا تغير المصدر
-//قناه المصدر
-//https://whatsapp.com/channel/0029VaRygQcATRSk29RI4P1x
+//تم تطوير بواسطه كاريزما 
+//استمتع بالبوت ي حبي
+//المصدر
+//https://t.me/kvrzm
 
 import { googleImage } from '@bochilteam/scraper'
 let handler = async (m, { conn, text, usedPrefix, command }) => {
 if (!text) throw `️ *${usedPrefix + command} سوكونا*`
-const prohibited = ['بنات', 'بز', 'سكس']
+const prohibited = ['بنات', 'بز', 'كس' ,'سكس']
 if (prohibited.some(word => m.text.toLowerCase().includes(word))) return m.reply('محظوره يعرص الصور دي 😂')      
 try {
 const res = await googleImage(text)
